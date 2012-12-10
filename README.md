@@ -8,7 +8,7 @@ Contributions are [welcome](#how-to-contribute).
 [Free eBooks](https://github.com/twinslash/cookbook/blob/master/books.md#books) that you can download in mobi or epub format.
 
 ### Recipes
-[Generate clever fake data](https://github.com/twinslash/cookbook/blob/master/recipes/generating_fake_demo_data.md) for making your demo looks like real app.
+[Generate clever fake data](https://github.com/twinslash/cookbook/blob/master/recipes/generating_fake_demo_data.md#generating-fake-demo-data) for making your demo looks like real app.
 
 ## How to contribute?
 1. Fork it.
