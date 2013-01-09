@@ -17,5 +17,8 @@ Sophisticated text editor with a lot cool features for working with text. Can be
 * [Rails Migration List](https://github.com/KELiON/RailsMigrationsList) - navigating between Rails migrations.
 * [Gem Browser](https://github.com/NaN1488/sublime-gem-browser) - navigating inside gems of current project. I didn't test it but it sounds good.
 * [Rails Snippets](https://github.com/tadast/sublime-rails-snippets) - a set of snippets for Rails 3, Ruby 1.9 development.
-
+* [Cucumber](https://github.com/drewda/cucumber-sublime2-bundle) - syntax highlighting and snippets for Cucumber and its Gherkin language, table cleaner.
+* [CoffeeScript](http://xavura.github.com/CoffeeScript-Sublime-Plugin) - syntax highlighting and checking, snippets and more.
+* [Sass](https://github.com/nathos/sass-textmate-bundle) - syntax highlighting and code completing.
+* [Ruby Slim](http://slim-lang.com) - syntax highlighting for slim.
 
