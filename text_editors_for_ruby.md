@@ -21,4 +21,4 @@ Sophisticated text editor with a lot cool features for working with text. Can be
 * [CoffeeScript](http://xavura.github.com/CoffeeScript-Sublime-Plugin) - syntax highlighting and checking, snippets and more.
 * [Sass](https://github.com/nathos/sass-textmate-bundle) - syntax highlighting and code completing.
 * [Ruby Slim](http://slim-lang.com) - syntax highlighting for slim.
-
+* [Git Gutter](https://github.com/jisaacks/GitGutter) - shows an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
