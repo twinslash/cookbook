@@ -22,3 +22,4 @@ Sophisticated text editor with a lot cool features for working with text. Can be
 * [Sass](https://github.com/nathos/sass-textmate-bundle) - syntax highlighting and code completing.
 * [Ruby Slim](http://slim-lang.com) - syntax highlighting for slim.
 * [Git Gutter](https://github.com/jisaacks/GitGutter) - shows an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
+* [Git](https://github.com/kemayo/sublime-text-2-git) - Git client. Also show branch info on bottom panel.
