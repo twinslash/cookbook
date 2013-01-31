@@ -25,3 +25,4 @@ Sophisticated text editor with a lot cool features for working with text. Can be
 * [Git](https://github.com/kemayo/sublime-text-2-git) - Git client. Also show branch info on bottom panel.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) - Markdown Preview. Have preview in browser and markdown cheetsheet.
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Provides enhancements to the operations on Side Bar of Files and Folders.
+* [Shell-Turtlestein](https://github.com/misfo/Shell-Turtlestein) - Shell. Please, configure before use.
