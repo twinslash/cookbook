@@ -1,4 +1,4 @@
-# An alternative way of rake db:drop if you haven't grant to drop databse & don't know root password on db
+# An alternative way of rake db:drop if you haven't grant to drop database & don't know root password on db
 
 ## postgres database:
 
