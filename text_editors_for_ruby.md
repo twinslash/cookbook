@@ -26,3 +26,4 @@ Sophisticated text editor with a lot cool features for working with text. Can be
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) - Markdown Preview. Have preview in browser and markdown cheetsheet.
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Provides enhancements to the operations on Side Bar of Files and Folders.
 * [Shell-Turtlestein](https://github.com/misfo/Shell-Turtlestein) - Shell. Please, configure before use.
+* [Gem Browser](https://github.com/NaN1488/sublime-gem-browser) - quick access the code of a gem that you have installed via Bundler in the current project.
