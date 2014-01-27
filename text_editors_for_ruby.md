@@ -28,3 +28,4 @@ Sophisticated text editor with a lot cool features for working with text. Can be
 * [Shell-Turtlestein](https://github.com/misfo/Shell-Turtlestein) - Shell. Please, configure before use.
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter.github.io) - Interactive code linting framework.
 * [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
+* [PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text (2 & 3) editor
