@@ -29,3 +29,4 @@ Sophisticated text editor with a lot cool features for working with text. Can be
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter.github.io) - Interactive code linting framework.
 * [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) - Sublime Text plugin for running ruby tests (Unit, RSpec, Cucumber) inside the editor.
+* [PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text (2 & 3) editor
